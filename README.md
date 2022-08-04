@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Raj
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java, Python, HTML, CSS
+- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
