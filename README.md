@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh Raj
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
